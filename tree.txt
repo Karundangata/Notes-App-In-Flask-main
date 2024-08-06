@@ -1,0 +1,28 @@
+.
+├── app.py
+├── instance
+│   └── database.db
+├── README.md
+├── tree.txt
+└── website
+    ├── auth.py
+    ├── __init__.py
+    ├── models.py
+    ├── __pycache__
+    │   ├── auth.cpython-310.pyc
+    │   ├── __init__.cpython-310.pyc
+    │   ├── models.cpython-310.pyc
+    │   └── views.cpython-310.pyc
+    ├── static
+    │   ├── bootstrap.min.css
+    │   ├── bootstrap.min.js
+    │   └── index.js
+    ├── templates
+    │   ├── base.html
+    │   ├── home.html
+    │   ├── login.html
+    │   ├── logout.html
+    │   └── signup.html
+    └── views.py
+
+6 directories, 20 files
